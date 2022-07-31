@@ -1,6 +1,6 @@
 # site-agencia-marketing
 
-Feito em HTML e CSS de forma responsiva utilizando media queries.
+Feito em HTML e CSS Puro de forma responsiva utilizando 'Flexbox' e 'Media Queries'.
 <hr>
 
 VISUALIZAR:
