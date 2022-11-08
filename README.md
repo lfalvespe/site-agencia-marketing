@@ -1,4 +1,4 @@
-# Site agencia de marketing
+# Site Agência de marketing
 
 Feito em HTML e CSS Puro de forma responsiva utilizando 'Flexbox' e 'Media Queries'.
 <hr>
